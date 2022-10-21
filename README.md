@@ -1,2 +1,2 @@
 # onehub
-For growth and development tracking.
+different smarthome solutions
